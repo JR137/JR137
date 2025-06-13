@@ -1,11 +1,29 @@
-<h1 align="center">Hi 👋, I'm Jhosua Callejas</h1>
-<h3 align="center">I am Jhosua Callejas Ramos, a student of the Double Degree in Applied Mathematical Engineering for Data Analysis (Data Science) and Computer Engineering.</h3> <h3 align="center">Since I was a child, I have felt a strong curiosity to understand the reasons behind things, which led me to develop a passion for mathematics and computer science.</h3> <h3 align="center">I am an analytical person, with a strong ability to work in a team and remain calm under pressure.</h3> <h3 align="center">I enjoy solving problems and always strive to find efficient solutions by relying on logical thinking and technical knowledge.</h3> <h3 align="center">My multidisciplinary education allows me to tackle challenges from multiple perspectives, combining the best of the mathematical world with the power of technology.</h3>
+## Hi there! 👋
 
-- 📫 How to reach me **jhosuacallejasramos@gmail.com**
+I'm **Jhosua Callejas**, a passionate student pursuing a Double Degree in **Computer Engineering** and **Applied Mathematics** focused on Data Analysis at **Universidad Europea de Madrid**. I love solving complex problems and turning ideas into reality through code!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Currently based in **Madrid**, I am dedicated to expanding my knowledge in technology and mathematics. My studies allow me to bridge the gap between theoretical concepts and practical applications, particularly in data analysis and software development.
+
+## Skills & Technologies
+
+java,cpp,html,css,nodejs,react,flask,django,mysql,git,docker,azure,aws,linux,visualstudio,gitlab,heroku,androidstudio,spring,rails,bootstrap
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/jhosua-callejas-ramos-911a68184"}
+
+## Certifications
+
+- [Certification Name](link-to-certificate) - Issuing organization, Year
+
+## GitHub Stats
+
+### GitHub Stats
+
+- **Public Repositories**: 10
+- **Followers**: 0
+- **Following**: 0
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JR137&show_icons=true&hide_title=true&count_private=true&theme=radical)
