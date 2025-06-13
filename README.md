@@ -1,5 +1,5 @@
 
-# Hello World, I'am Jhosua
+# Hello World, I'am Jhosua Callejas
 
 I am a student of the Double Degree in Applied Mathematical Engineering for Data Analysis (Data Science) and Computer Engineering. Since I was a child, I’ve been deeply curious about understanding how things work, which led me to develop a strong passion for mathematics and computer science.
 
@@ -8,10 +8,6 @@ I consider myself an analytical person, with a strong ability to work in teams a
 
 
 ## Other Common Github Profile Sections
-
-🧠 I'm currently learning...
-
-
 
 💬 Ask me about anything, I am happy to help
 
@@ -71,6 +67,7 @@ Others
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jhosua-callejas-ramos-911a68184)
